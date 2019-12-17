@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/eco/static/css/main.9386ce33.chunk.css",
-    "main.js": "/eco/static/js/main.f1a88b1e.chunk.js",
-    "main.js.map": "/eco/static/js/main.f1a88b1e.chunk.js.map",
+    "main.js": "/eco/static/js/main.487a8fd1.chunk.js",
+    "main.js.map": "/eco/static/js/main.487a8fd1.chunk.js.map",
     "runtime-main.js": "/eco/static/js/runtime-main.63991ae6.js",
     "runtime-main.js.map": "/eco/static/js/runtime-main.63991ae6.js.map",
     "static/js/2.589d6813.chunk.js": "/eco/static/js/2.589d6813.chunk.js",
     "static/js/2.589d6813.chunk.js.map": "/eco/static/js/2.589d6813.chunk.js.map",
     "index.html": "/eco/index.html",
-    "precache-manifest.8576192a4c285b83cc0d3f6eb6f94ad5.js": "/eco/precache-manifest.8576192a4c285b83cc0d3f6eb6f94ad5.js",
+    "precache-manifest.2a850318ccc87dd95c6398ff4c9d99fe.js": "/eco/precache-manifest.2a850318ccc87dd95c6398ff4c9d99fe.js",
     "service-worker.js": "/eco/service-worker.js",
     "static/css/main.9386ce33.chunk.css.map": "/eco/static/css/main.9386ce33.chunk.css.map",
     "static/media/adidas.jpg": "/eco/static/media/adidas.eb25b0ed.jpg",
@@ -49,6 +49,6 @@
     "static/js/runtime-main.63991ae6.js",
     "static/js/2.589d6813.chunk.js",
     "static/css/main.9386ce33.chunk.css",
-    "static/js/main.f1a88b1e.chunk.js"
+    "static/js/main.487a8fd1.chunk.js"
   ]
 }

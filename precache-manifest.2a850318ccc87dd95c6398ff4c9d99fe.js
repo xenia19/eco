@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1eaa1cf91f3facba513d02a276419b7c",
+    "revision": "a9e04186260808b2f044fcd2c2a952a4",
     "url": "/eco/index.html"
   },
   {
-    "revision": "a3fa0d96a8e2d09e067a",
+    "revision": "7a9b00508ce54498f44d",
     "url": "/eco/static/css/main.9386ce33.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eco/static/js/2.589d6813.chunk.js"
   },
   {
-    "revision": "a3fa0d96a8e2d09e067a",
-    "url": "/eco/static/js/main.f1a88b1e.chunk.js"
+    "revision": "7a9b00508ce54498f44d",
+    "url": "/eco/static/js/main.487a8fd1.chunk.js"
   },
   {
     "revision": "7c682579856c4ab81d50",
