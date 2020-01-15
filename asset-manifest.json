@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/eco/static/css/main.9386ce33.chunk.css",
-    "main.js": "/eco/static/js/main.d827911d.chunk.js",
-    "main.js.map": "/eco/static/js/main.d827911d.chunk.js.map",
+    "main.css": "/eco/static/css/main.bdbe80e9.chunk.css",
+    "main.js": "/eco/static/js/main.cdb9d87a.chunk.js",
+    "main.js.map": "/eco/static/js/main.cdb9d87a.chunk.js.map",
     "runtime-main.js": "/eco/static/js/runtime-main.63991ae6.js",
     "runtime-main.js.map": "/eco/static/js/runtime-main.63991ae6.js.map",
-    "static/js/2.47ea2713.chunk.js": "/eco/static/js/2.47ea2713.chunk.js",
-    "static/js/2.47ea2713.chunk.js.map": "/eco/static/js/2.47ea2713.chunk.js.map",
+    "static/js/2.c30af436.chunk.js": "/eco/static/js/2.c30af436.chunk.js",
+    "static/js/2.c30af436.chunk.js.map": "/eco/static/js/2.c30af436.chunk.js.map",
     "index.html": "/eco/index.html",
-    "precache-manifest.fc8f901eaf35d2de2b0684d38176e595.js": "/eco/precache-manifest.fc8f901eaf35d2de2b0684d38176e595.js",
+    "precache-manifest.5ee781e03195c869ba489c70c084970a.js": "/eco/precache-manifest.5ee781e03195c869ba489c70c084970a.js",
     "service-worker.js": "/eco/service-worker.js",
-    "static/css/main.9386ce33.chunk.css.map": "/eco/static/css/main.9386ce33.chunk.css.map",
+    "static/css/main.bdbe80e9.chunk.css.map": "/eco/static/css/main.bdbe80e9.chunk.css.map",
     "static/media/adidas.jpg": "/eco/static/media/adidas.eb25b0ed.jpg",
     "static/media/adidas1.jpg": "/eco/static/media/adidas1.207ba7b5.jpg",
     "static/media/design.css": "/eco/static/media/background.4de897af.jpg",
@@ -47,8 +47,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.63991ae6.js",
-    "static/js/2.47ea2713.chunk.js",
-    "static/css/main.9386ce33.chunk.css",
-    "static/js/main.d827911d.chunk.js"
+    "static/js/2.c30af436.chunk.js",
+    "static/css/main.bdbe80e9.chunk.css",
+    "static/js/main.cdb9d87a.chunk.js"
   ]
 }
